@@ -37,7 +37,6 @@ sudo raspi-config > interphaces > serial > no > yes
 Installation librairies:
 
 sudo pip2 install pygame
-
 sudo apt-get install serial
 
 
