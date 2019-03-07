@@ -14,7 +14,8 @@ Pas male de fils pour les connections
 # Le montage
 Partit la plus complexe du projet.
 Fixer moteurs, arbre, helices, servo
-[bateau]_(https://drive.google.com/file/d/0B62PxHiAohbrb3ZzOGV3LUVBR0dvOC0wcWJMbFFVaU5Kd0ZF/view?usp=sharing)
+![bateau]_(https://drive.google.com/file/d/0B62PxHiAohbrb3ZzOGV3LUVBR0dvOC0wcWJMbFFVaU5Kd0ZF/view?usp=sharing)
+
  
 
 
