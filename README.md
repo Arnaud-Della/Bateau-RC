@@ -31,11 +31,15 @@ Si tout c'est bien passer, que le gouvernaille tourne bien et que la transimissi
 
 # Code
 Regler le raspberry pour qu'il puisse communquer avec le module HC-12 par Rx Tx :
+
 sudo raspi-config > interphaces > serial > no > yes
 
 Installation librairies:
+
 sudo pip2 install pygame
+
 sudo apt-get install serial
+
 
 # Branchement
 Pour Module HC12-12:
