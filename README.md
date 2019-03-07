@@ -2,15 +2,24 @@
 Le but de ce projet est la fabrication d'un bateau radiocommandé avec un Arduino et Raspberry Pi
 
 # Prerequis
-Un Raspberry Pi 3
+Un Raspberry Pi 3 (emeteur)
+
 Une Manette Usb ou bluetooth (ici un Dualshock 4)
-Un arduino nano 
+
+Un arduino nano (recepteur)
+
 Une coque de bateau
+
 Des modules radio HC-12
+
 Un servo moteur standart avec un gouvernaille et une tige metallique
+
 Des moteurs brushed, arbres de transmission, helices, une lipo
+
 Un ESC Newrain 480A pour moteur brushed
+
 Pas male de fils pour les connections
+
 
 # Le Montage Bateau
 Partit la plus complexe du projet, amenagement de la coque.
