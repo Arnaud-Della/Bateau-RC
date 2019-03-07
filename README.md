@@ -31,26 +31,45 @@ sudo apt-get install serial
 # Branchement
 Pour Module HC12-12:
 HC-12 -> Raspberry
+
 VCC -> 5v
+
 Gnd -> Gnd
+
 Rx -> Tx
+
 Tx -> Rx
+
 (le dernier pin n'est pas utiliser)
 
 HC-12 -> Arduino
+
 VCC -> 5v
+
 Gnd -> Gnd
+
 Rx -> Tx
+
 Tx -> Rx
+
 (le dernier pin n'est pas utiliser)
 
+
 Pour ESC NewRain:
+
 Signal (blanc)-> pin 4 arduino
+
 +5V (rouge) -> vin arduino
+
 Gnd (noir) -> Gnd arduino
 
+
 Pour Servo:
+
 Signal (blanc)-> pin 9 arduino
+
 Vcc (rouge) -> +5V arduino
+
 Gnd (noir) -> Gnd arduino
-      
+
+
