@@ -15,4 +15,6 @@ Pas male de fils pour les connections
 Partit la plus complexe du projet.
 Fixer moteurs, arbre, helices, servo
 ![bateau](https://github.com/Arnaud-Della/Bateau-RC/blob/master/Images/20190306_182206.jpg)
+![bateau2](https://github.com/Arnaud-Della/Bateau-RC/blob/master/Images/20190306_182149.jpg)
+![bateau3](https://github.com/Arnaud-Della/Bateau-RC/blob/master/Images/20190306_182157.jpg)
       
